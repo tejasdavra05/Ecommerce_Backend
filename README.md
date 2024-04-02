@@ -5,9 +5,16 @@ This is the backend part of an eCommerce website project developed using Node.js
 ## Features
 
 - User authentication and authorization
-- Product management (CRUD operations)
+- Product management (CRUD operations, Filtering, Sorting, Pagination, limiting)
 - Order management
 - Cart management
+- Category management
+- Blog management
+- Brand management
+- Coupon management
+- Color management
+- Enquiry management
+- Wishlist and Ratings
 
 ## Technologies Used
 
